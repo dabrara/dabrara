@@ -27,5 +27,4 @@ I'm a Computer Systems student who likes figuring out how things actually work, 
 ## 📫 Connect With Me
 
 - 📧 Email: [dabiru2008@gmail.com](mailto:dabiru2008@gmail.com)
-- 💼 LinkedIn: add your link here
-- 🐙 GitHub: add your username here
+- 💼 LinkedIn: [add your link here](https://www.linkedin.com/in/dabir-uddin-261179442/)
