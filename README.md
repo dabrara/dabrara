@@ -54,5 +54,5 @@ I'm a Computer Systems student who likes exploring system design, from the opera
 ## 📫 Connect With Me
 
 - 📧 Email: [dabiru2008@gmail.com](mailto:dabiru2008@gmail.com)
-- 💼 LinkedIn: add your link here
+- 💼 LinkedIn: [Dabir Uddin](https://www.linkedin.com/in/dabir-uddin-261179442/)
 - 🐙 GitHub: [dabrara](https://github.com/dabrara)
