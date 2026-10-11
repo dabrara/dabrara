@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dabir Uddin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=false&vCenter=true&width=500&lines=Computer+Systems+major+at+CUNY+City+Tech;Learning+Linux%2C+C%2C+and+networking;Building+experience+one+project+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=false&vCenter=true&width=500&lines=Computer+Systems+major+at+CUNY+City+Tech;Learning+Linux%2C+C%2C+and+networking)](https://git.io/typing-svg)
 
 I'm a Computer Systems student who likes exploring system design, from the operating system up to the network.
 
