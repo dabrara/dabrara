@@ -6,11 +6,10 @@ I'm a Computer Systems student who likes exploring system design, from the opera
 
 ## 🔭 What I'm Up To
 
-- 🔭 Building up experience in Computer Science, one project at a time
-- 🌱 Relearning the skills I want rock solid: networking, systems-level programming, and the Linux environment
-- 🐧 Getting more comfortable living in the Linux terminal and writing Bash scripts
-- ⚙️ Writing C to better understand what's going on under the hood, like memory and processes
-- 🌐 Brushing up on how networks work, from how devices find each other to how data moves between them
+- 🔭 Building up experience in Computer Science
+- 🐧 Getting more comfortable using the Linux terminal and writing Bash scripts
+- ⚙️ Writing C to better understand memory and process managements
+- 🌐 Building a solid foundation on computer networks
 - 🎓 Studying Computer Systems at CUNY City Tech
 
 ## 🛠️ Languages and Tools
